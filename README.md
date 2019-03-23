@@ -1,4 +1,6 @@
-# CatTest - A very simple check of equality for testing purposes
+# CatTest - A very simple assert equals toolset :cat:
+
+> "A cat has absolute emotional honesty. Human beings, for one reason or another, may hide their feelings, but a cat does not." ~_Ernest Hemingway_
 
 A solution to a simple problem question that uses an assert Class that has two requirements: 
   1. use of closure, and
@@ -10,4 +12,8 @@ ASCII versions of Grumpy Cat saying 'YEP' or 'NOPE' are included. In the program
 
 ## Usage:
 
-This program can be run from the command line with node.js installed: *node index.js*
+This program can be run from the command line with node.js installed:
+
+```
+node index.js
+```
